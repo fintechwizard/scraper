@@ -3,7 +3,6 @@
    <h2 align="center">by eVOLV</h2>
 </p>
 
-<b>- Code Example</b>
 <p align="center">
 <img src="https://github.com/fintechwizard/scraper/assets/107593481/b56dabc2-a724-437b-a504-763710eef3e7">
 </p>
