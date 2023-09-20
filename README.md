@@ -57,8 +57,8 @@ Our Crypto and NFT Scraper was developed by <b>eVOLV</b> using the latest Python
 
 Have any questions or want to explore the possibilities of our collaboration further? Our team is just a message away. We're eager to hear about your project and discuss how we can help you achieve your goals.
 
-Feel free to reach out to us at [contact@evolv.com](mailto:contact@evolv.com), and let's start crafting your ideal cryptocurrency and NFT data solution.
+Feel free to reach out to us at [info@evolv.website](mailto:info@evolv.website), and let's start crafting your ideal cryptocurrency and NFT data solution.
 
 Thank you for choosing eVOLV. We look forward to partnering with you on your journey to a more efficient and eVOLVED company.
 
-[Visit our website](https://www.evolv.com) | [GitHub Repository](https://github.com/fintechwizard/sentiment_analysis)
+[Visit our website](https://www.evolv.website) | [GitHub Repository](https://github.com/fintechwizard/sentiment_analysis)
